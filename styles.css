@@ -1,0 +1,12 @@
+.title {
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+ 
+}
+
