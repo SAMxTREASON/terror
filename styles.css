@@ -1,6 +1,31 @@
+* {
+    font-family: 'Syne Mono', monospace;
+}
+
+body {
+    background-color: rgb(7, 7, 7);
+}
+
+a {
+text-decoration: none;
+    border: 2px solid black;
+    padding: 8px;
+    background-color: yellow;
+    color: black;
+    box-shadow: 1px 3px 10px rgb(94, 218, 37);
+   border-radius: 10%; 
+   color: rgb(12, 105, 82);
+   
+  
+
+}
+
 .title {
+    color: rgb(94, 218, 37);
     text-align: center;
     margin-bottom: 32px;
+    font-size: 60px;
+    
 }
 
 .header {
@@ -10,3 +35,24 @@
  
 }
 
+a:hover {
+    color: rgb(117, 23, 113);
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+.pepe {
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    
+   
+}
+
+p {
+    color: white;
+    margin-left: 60px;
+}
