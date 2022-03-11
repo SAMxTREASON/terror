@@ -57,6 +57,10 @@ p {
     margin-left: 60px;
 }
 
+h1 {
+    color: rgb(121, 26, 42);
+    text-align: center;
+}
 
 
 @media (max-width:490px) {
